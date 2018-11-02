@@ -83,3 +83,6 @@ For any suggestions, corrections or questions contact [adilet@adilet.org](mailto
 * [Z function](https://github.com/ADJA/algos/blob/master/Strings/ZFunction.cpp) – Calculating the Z-function of the given string.
 
 Another list of algorithms here with some additional information is available at [adilet.org/algos](http://adilet.org/algos/).
+
+### TODO: 
+* [Connected components dp]
