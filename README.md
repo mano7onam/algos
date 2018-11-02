@@ -89,4 +89,4 @@ Another list of algorithms here with some additional information is available at
 * Open intervals dp
 * 2-SAT
 * SQRT-decomposition
-* 
+* Simplex method
