@@ -85,4 +85,8 @@ For any suggestions, corrections or questions contact [adilet@adilet.org](mailto
 Another list of algorithms here with some additional information is available at [adilet.org/algos](http://adilet.org/algos/).
 
 ### TODO: 
-* [Connected components dp]
+* Connected components dp
+* Open intervals dp
+* 2-SAT
+* SQRT-decomposition
+* 
